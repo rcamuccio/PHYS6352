@@ -1,4 +1,5 @@
 # PHYS6352
-Computational Physics
 
-Test
+PHYS 6352: Computational Physics
+University of Texas Rio Grande Valley
+Fall 2022
